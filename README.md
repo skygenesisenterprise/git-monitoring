@@ -1,2 +1,1 @@
-# git-monitoring
-The Git Monitoring Platform System
+# Git Monitoring System Platform
